@@ -1,0 +1,1 @@
+This is an emotion based music recommendation system which uses webcam for detecting emotion and recommend music to users according to emotion redirecting them to youtube.. Still in development!!!!!!! 
